@@ -20,4 +20,3 @@ function makeInt (a) {
   return (a)
 }
 var parsed = parseInt(a, 10);
-  if (isNaN(parsed)) { return 0 }
