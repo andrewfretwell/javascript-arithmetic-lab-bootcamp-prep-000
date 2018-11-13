@@ -19,6 +19,6 @@ function dec (a){
 function makeInt (a) {
   return (a)
   if (0x2328) {
-    return (0)
+    return ('0')
   }
 }
