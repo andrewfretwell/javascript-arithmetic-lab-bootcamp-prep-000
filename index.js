@@ -19,4 +19,4 @@ function dec (a){
 function makeInt (a) {
   return (a)
 }
-var parsed = parseInt(82823, 10);
+var parsed = parseInt(0x82823, 10);
